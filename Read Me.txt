@@ -1,0 +1,12 @@
+MovieApplication app is written using Winfrom and C#.
+
+Visual studio version : v15.5.6
+.Net Framework : 4.6.1
+Newtonsoft.Json : v13.0.1
+
+Prerequisite:
+1) MovieApplication.exe , moviedata.json and Newtonsoft.Json.dll should presenet in same folder.
+
+I have provided 2 zip folders:
+1) MovieApplication.zip : Contain complete code.
+2) Release.zip :  Executable and supporting files.
